@@ -18,10 +18,10 @@ This project is a simple yet functional messaging application built using Flet a
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/messaging-app-flet.git
-   cd messaging-app-flet
+   git clone https://github.com/PrathmeshChurhe/Messaging_app_python
+   cd Messaging_app_python
    ```
-
+2. **Run the application:**
 ```
-flet run 
+flet run main.py
 ```
